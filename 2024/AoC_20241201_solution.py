@@ -22,8 +22,6 @@ if __name__ == "__main__":
     data = file.read() 
     file.close()
 
-    file.close()
-
     l1 = []
     l2 = []
 
